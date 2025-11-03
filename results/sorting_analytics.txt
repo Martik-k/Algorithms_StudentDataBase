@@ -1,4 +1,0 @@
-Algorithm           Time (s)       
------------------------------------
-standard_sort       0.0754551      
-my_sort             0.280181       
