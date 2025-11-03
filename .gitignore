@@ -19,12 +19,11 @@ build/
 *.exe
 *.out
 
+.PVS-Studio
+
 env/
 *.pyc
 __pycache__/
-
-results/
-*.log
 
 .DS_Store
 Thumbs.db
